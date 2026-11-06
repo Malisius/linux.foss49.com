@@ -1,0 +1,22 @@
+body {
+    background-color: #121212;
+    color: #E0E0E0;
+}
+
+.section.cards {
+    background-color: #202020;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.section.footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.card {
+    background-color: #121212;
+    padding: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
